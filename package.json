@@ -2,6 +2,7 @@
   "name": "flsrw.github.io",
   "version": "1.0.0",
   "description": "",
+  "homepage": "https://flsrw.github.io/home/",
   "scripts": {
     "start": "vite",
     "build": "vite build",

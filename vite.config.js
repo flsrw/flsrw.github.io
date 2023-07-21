@@ -6,7 +6,7 @@ export default defineConfig({
     base: 'home',
     plugins: [react()],
     root: path.resolve(__dirname, 'src'),
-  build: {
-    outDir: '../dist'
-  }
+    build: {
+        outDir: '../dist'
+    }
 })
